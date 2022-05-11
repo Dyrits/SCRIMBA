@@ -1,4 +1,4 @@
-# SCRIMBA
+# SCRIMBA - The Frontend Developer Career Path
 
 ## Module 1 | Welcome to the career path
 
