@@ -9,7 +9,7 @@
 - [Build a Blackjack game](https://scrimba.com/scrim/co4c5405e94d388f30c077e4d)
 
 ## Module 5 | Essential JavaScript concepts
-- [Build a dice game](https://scrimba.com/scrim/cof8a432ea56813649640832f)
+- [Build a dice game](https://scrimba.com/scrim/cof8a432ea56813649640832f) [🔗](https://scrimba-dice-game-dyrits.netlify.app/) 
 
 
 ## Legacy projects and mini-projects
