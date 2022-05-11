@@ -8,6 +8,9 @@
 - [Build a passenger counter app](https://scrimba.com/scrim/cod7346e2ad7aa9d60d3e84f6)
 - [Build a Blackjack game](https://scrimba.com/scrim/co4c5405e94d388f30c077e4d)
 
+## Module 5
+- [Build a dice game](https://scrimba.com/scrim/cof8a432ea56813649640832f)
+
 
 ## Legacy projects and mini-projects
 
