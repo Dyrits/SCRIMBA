@@ -4,6 +4,9 @@
 
 - [Your own personalized web app](https://scrimba.com/scrim/cob7f4d1598cabb3c7cf1046c)
 
+## Module 2 | Web dev basics
+- [Build & deploy your first website](https://scrimba.com/scrim/co5414e419240cf1d5f8f70bf)
+
 ## Module 3 | Making websites interactive
 - [Build a passenger counter app](https://scrimba.com/scrim/cod7346e2ad7aa9d60d3e84f6) [🔗](https://passenger-counter-app-dyrits.netlify.app/)
 - [Build a Blackjack game](https://scrimba.com/scrim/co4c5405e94d388f30c077e4d)
