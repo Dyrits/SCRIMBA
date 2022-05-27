@@ -7,6 +7,7 @@
 ## Module 2 | Web dev basics
 - [Build & deploy your first website](https://scrimba.com/scrim/co5414e419240cf1d5f8f70bf)
 - [Build a Google clone](https://scrimba.com/scrim/co5294a3ebce41b6a632b9036)
+- [Build a digital Business Card](https://scrimba.com/scrim/co28a447883ae30010e9a8e6c)
 
 ## Module 3 | Making websites interactive
 - [Build a passenger counter app](https://scrimba.com/scrim/cod7346e2ad7aa9d60d3e84f6) [🔗](https://dyrits-passenger-counter-app.netlify.app/)
