@@ -17,6 +17,9 @@
 - [Build a Chrome Extension](https://scrimba.com/scrim/codd243bb8c0fea750e85090b)
 - [Your personality in emojis](https://scrimba.com/scrim/cod0743e3a801d628da03eaa3)
 
+## Module 4 | Essential CSS concepts
+- [Build an NFT Site](https://scrimba.com/scrim/coed94c2d9616520ef95f60dc)
+
 ## Module 5 | Essential JavaScript concepts
 - [Build a dice game](https://scrimba.com/scrim/cof8a432ea56813649640832f) [🔗](https://dyrits-dice-game.netlify.app/) 
 
