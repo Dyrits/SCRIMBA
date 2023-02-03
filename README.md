@@ -10,6 +10,7 @@
 - [Build a digital Business Card](https://scrimba.com/scrim/co28a447883ae30010e9a8e6c)
 - [Build a Space Exploration site](https://scrimba.com/scrim/co72f4545a066ebbaaec0ea3f)
 - [Build a Birtday GIFT Site](https://scrimba.com/scrim/co2f747c78f44054ec7ab6c5e)
+- [Solo Project: Hometown Homepage](https://scrimba.com/scrim/co8184406a31002de84b23ee4)
 
 ## Module 3 | Making websites interactive
 - [Build a passenger counter app](https://scrimba.com/scrim/cod7346e2ad7aa9d60d3e84f6) [🔗](https://dyrits-passenger-counter-app.netlify.app/)
