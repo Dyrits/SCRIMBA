@@ -14,7 +14,7 @@
 
 ## Module 3 | Making websites interactive
 - [Build a passenger counter app](https://scrimba.com/scrim/cod7346e2ad7aa9d60d3e84f6)
-- [Solo Project: Solo Project: Basketball Scoreboard](https://scrimba.com/scrim/coc45495a81a5c9ebcb513bb5)
+- [Solo Project: Basketball Scoreboard](https://scrimba.com/scrim/coc45495a81a5c9ebcb513bb5)
 - [Build a Blackjack game](https://scrimba.com/scrim/co4c5405e94d388f30c077e4d)
 - [Build a Chrome Extension](https://scrimba.com/scrim/codd243bb8c0fea750e85090b)
 - [Your personality in emojis](https://scrimba.com/scrim/cod0743e3a801d628da03eaa3)
